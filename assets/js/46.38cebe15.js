@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[46],{438:function(t,e,s){"use strict";s.r(e);var n={},a=s(34),r=Object(a.a)(n,(function(){var t=this.$createElement;return(this._self._c||t)("terse-badge",{attrs:{"is-dot":!0}},[this._v("评论")])}),[],!1,null,"0a5f8f3e",null);e.default=r.exports}}]);

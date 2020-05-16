@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[47],{444:function(t,e,n){"use strict";n.r(e);var s={methods:{handleClick:function(){this.$message("这是一条消息提示")}}},i=n(34),c=Object(i.a)(s,(function(){var t=this.$createElement;return(this._self._c||t)("terse-button",{on:{click:this.handleClick}},[this._v("打开消息提示")])}),[],!1,null,"13f70694",null);e.default=c.exports}}]);

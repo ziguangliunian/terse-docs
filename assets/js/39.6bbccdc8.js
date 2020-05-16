@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[39],{418:function(e,t,n){"use strict";n.r(t);var s={},o=n(34),i=Object(o.a)(s,(function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("terse-icon",{attrs:{name:"icon-shop",color:"red"}}),this._v(" "),t("terse-icon",{attrs:{name:"icon-shop",size:24}})],1)}),[],!1,null,"14f072a2",null);t.default=i.exports}}]);

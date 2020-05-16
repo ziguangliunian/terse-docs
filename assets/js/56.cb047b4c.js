@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[56],{400:function(t,e,n){"use strict";n.r(e);var s={},r=n(34),a=Object(r.a)(s,(function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("terse-button",{attrs:{type:"danger",loading:""}},[this._v("加载中的按钮")])],1)}),[],!1,null,"64ffd688",null);e.default=a.exports}}]);
